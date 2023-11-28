@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/debbyDeveloper-design.png)
+![](https://github.com/Debby123/product-preview-card-component/blob/main/images/debbyDeveloper-design.png)
 
 ### Links
 
