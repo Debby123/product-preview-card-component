@@ -28,8 +28,8 @@ html {
                overflow: hidden;
 }
 body{
-               width: 100vw;
-               height: 100vh;
+               max-width: 100vw;
+               max-height: 100vh;
                background-color: var(--primary-color2);
 }
 
@@ -110,6 +110,7 @@ button {
                top: -14%;
                color: var(--neutral3);
                font-size: var(--font-size);
+               cursor: pointer;
 }
 
 button img {
